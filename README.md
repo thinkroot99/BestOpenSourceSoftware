@@ -29,7 +29,7 @@ The only requirement is that they must be open source and run on Linux, not just
 - **Audio Editor:** [Audacity](https://www.audacityteam.org/) - A free, open-source, cross-platform audio software.
 - **Media Center:** [Kodi](https://kodi.tv/) - A free and open-source media player software and entertainment hub.
 
-  ### Internet and Security
+### Internet and Security
 - **Web Browser:** [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A fast, private, and secure web browser.
 - **FTP Client:** [FileZilla](https://filezilla-project.org/) - An FTP client for easy file transfer.
 - **Email Client:** [Thunderbird](https://www.thunderbird.net/) - A free, open-source email client by Mozilla.
