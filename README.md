@@ -60,7 +60,7 @@ The only requirement is that they must be open source and run on Linux, not just
 - **CMS:** [WordPress](https://wordpress.org/) - An open-source content management system for building websites and blogs.
 - **Cloud:** [Nextcloud](https://nextcloud.com/) - A self-hosted productivity platform that keeps your data under your control.
 - **Torrent Client:** [qBittorrent](https://www.qbittorrent.org/) - A free and open-source BitTorrent client.
-- **Streaming video:** [OBS](https://obsproject.com/) - An open-source software for live streaming and recording.
+- **Streaming video:** [OBS Studio](https://obsproject.com/) - An open-source software for live streaming and recording.
 - **Screenshot:** [Flameshot](https://flameshot.org/) - A powerful yet simple to use screenshot software.
 - **Data Recovery:** [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - A file data recovery software.
 - **Partition Manager:** [GParted](https://gparted.org/) - A free partition editor for graphically managing disk partitions.
@@ -69,8 +69,8 @@ The only requirement is that they must be open source and run on Linux, not just
 - **File Synchronization:** [rsync](https://rsync.samba.org/) - A utility for fast file copying and synchronization.
 - **Learning Management System:** [Moodle](https://moodle.org/) - A learning platform designed to provide educators, administrators and learners with a single robust, secure and integrated system to create personalised learning environments.
 - **Personal Finance:** [GNUCash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-- **System Backup:** [Timeshift](https://teejeetech.in/timeshift/) - A system restore utility which takes incremental snapshots of the system using rsync and hard-links.
-- **System Monitor:** [htop](https://hisham.hm/htop/) - An interactive process viewer for Unix systems.
+- **System Backup:** [Pika Backup](https://apps.gnome.org/ro/PikaBackup/) - An open-source tool to backup your personal data into either local disk (e.g., an USB stick) or remote server using secure shell or sftp.
+- **System Monitor:** [btop](https://github.com/aristocratos/btop) - A resource monitor that shows usage and stats for processor, memory, disks, network and processes.
 
 ### Games
 - **Program Emulator:** [Bottles](https://usebottles.com/) - An open-source program emulator for Linux, allowing the running of Windows applications and games in an isolated environment.
