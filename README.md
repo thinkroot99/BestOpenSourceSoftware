@@ -23,7 +23,7 @@ A short list of the best open source software
 - Programming Language: [Python](https://www.python.org/)
 - Web Programming: [PHP](https://www.php.net/)
 - Machine Learning Framework: [PyTorch](https://pytorch.org/)
-- Virtualization: [KVM](https://www.linux-kvm.org/)
+- Virtualization: [Proxmox](https://proxmox.com/en/)
 - Code Editor: [VSCodium](https://vscodium.com/)
 - Network Analyzer: [Wireshark](https://www.wireshark.org/)
 - Video Streaming: [OBS](https://obsproject.com/)
