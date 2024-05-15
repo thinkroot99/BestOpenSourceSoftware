@@ -32,6 +32,8 @@ The only requirement is that they must be open source and run on Linux, not just
 - **FTP Client:** [FileZilla](https://filezilla-project.org/) - An FTP client for easy file transfer.
 - **Email Client:** [Thunderbird](https://www.thunderbird.net/) - A free, open-source email client by Mozilla.
 - **Password Manager:** [Bitwarden](https://bitwarden.com/) - An open-source password management solution.
+- **Antivirus:** [ClamAV](https://www.clamav.net/) - An antivirus open-source for detecting malware threats.
+- **Firewall:** [FirewalD](https://firewalld.org/) - A dynamic firewall management tool for Linux.
 
 ### Development and Utilities
 - **Archiver:** [7-Zip](https://www.7-zip.org/) - A file archiver with a high compression ratio.
@@ -51,6 +53,15 @@ The only requirement is that they must be open source and run on Linux, not just
 - **Image Organizer:** [Pix](https://github.com/linuxmint/pix) - An image organizer designed to look and feel like the native Photos app on macOS.
 - **Media Center:** [Kodi](https://kodi.tv/) - A free and open-source media player software and entertainment hub.
 - **Document Viewer:** [Okular](https://okular.kde.org/) - A document viewer for PDF, PostScript, DjVu, and other formats.
+- **Project Management:** [Taiga](https://taiga.io/) - An open-source platform for project management and team collaboration.
+- **Remote Work Support:** [Jitsi Meet](https://jitsi.org/jitsi-meet/) - An open-source solution for video conferencing and remote collaboration.
+
+### Development Tools
+- **Version Control:** [Git](https://git-scm.com/) - A distributed version control system, ideal for software development.
+- **Continuous Integration Platform:** [Jenkins](https://www.jenkins.io/) - An open-source automation server for continuous integration and continuous delivery.
+- **Automated Testing:** [Selenium](https://www.selenium.dev/) - An open-source tool for automating web application testing.
+- **Monitoring:** [Prometheus](https://prometheus.io/) - An open-source monitoring system and time series database.
+- **Configuration Management:** [Ansible](https://www.ansible.com/) - An open-source automation engine for configuration management, deployment, and task automation.
   
 ### Games
 - **Program Emulator:** [Bottles](https://usebottles.com/) - An open-source program emulator for Linux, allowing the running of Windows applications and games in an isolated environment.
