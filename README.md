@@ -2,33 +2,33 @@
 A short list of the best open source software
 
 
-- Operating System: Linux
-- Desktop Environment: KDE Plasma
-- Office Suite: LibreOffice
-- Image Editor: Krita
-- 3D Editor: Blender
-- Vector Graphics Editor: Inkscape
-- Video Editor: Kdenlive
-- Audio Editor: Audacity
-- Video Player: VLC
-- Audio Player: Amarok
-- Password Manager: Bitwarden
-- Web Browser: Firefox
-- FTP Client: FileZilla
-- Email Client: Thunderbird
-- Archiver: 7-Zip
-- CMS: WordPress
-- Cloud: Nextcloud
-- Torrent Client: qBittorrent
-- Programming Language: Python
-- Web Programming: PHP
-- Machine Learning Framework: PyTorch
-- Virtualization: KVM
-- Code Editor: VSCodium
-- Network Analyzer: Wireshark
-- Video Streaming: OBS
-- Screenshot: Flameshot
-- Data Recovery: PhotoRec
-- Partition Manager: GParted
-- Image Organizer: Pix
-- Media Center: Kodi
+- Operating System: [Linux](https://www.linux.org/)
+- Desktop Environment: [KDE Plasma](https://kde.org/plasma-desktop)
+- Office Suite: [LibreOffice](https://www.libreoffice.org/)
+- Image Editor: [Krita](https://krita.org/)
+- 3D Editor: [Blender](https://www.blender.org/)
+- Vector Graphics Editor: [Inkscape](https://inkscape.org/)
+- Video Editor: [Kdenlive](https://kdenlive.org/)
+- Audio Editor: [Audacity](https://www.audacityteam.org/)
+- Video Player: [VLC](https://www.videolan.org/vlc/)
+- Audio Player: [Amarok](https://amarok.kde.org/)
+- Password Manager: [Bitwarden](https://bitwarden.com/)
+- Web Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- FTP Client: [FileZilla](https://filezilla-project.org/)
+- Email Client: [Thunderbird](https://www.thunderbird.net/)
+- Archiver: [7-Zip](https://www.7-zip.org/)
+- CMS: [WordPress](https://wordpress.org/)
+- Cloud: [Nextcloud](https://nextcloud.com/)
+- Torrent Client: [qBittorrent](https://www.qbittorrent.org/)
+- Programming Language: [Python](https://www.python.org/)
+- Web Programming: [PHP](https://www.php.net/)
+- Machine Learning Framework: [PyTorch](https://pytorch.org/)
+- Virtualization: [KVM](https://www.linux-kvm.org/)
+- Code Editor: [VSCodium](https://vscodium.com/)
+- Network Analyzer: [Wireshark](https://www.wireshark.org/)
+- Video Streaming: [OBS](https://obsproject.com/)
+- Screenshot: [Flameshot](https://flameshot.js.org/)
+- Data Recovery: [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)
+- Partition Manager: [GParted](https://gparted.org/)
+- Image Organizer: [Pix](https://gitlab.gnome.org/World/pix)
+- Media Center: [Kodi](https://kodi.tv/)
