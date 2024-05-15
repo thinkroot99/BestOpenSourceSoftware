@@ -30,5 +30,5 @@ A short list of the best open source software
 - Screenshot: [Flameshot](https://flameshot.org/)
 - Data Recovery: [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)
 - Partition Manager: [GParted](https://gparted.org/)
-- Image Organizer: [Pix](https://gitlab.gnome.org/World/pix)
+- Image Organizer: [Pix](https://github.com/linuxmint/pix)
 - Media Center: [Kodi](https://kodi.tv/)
