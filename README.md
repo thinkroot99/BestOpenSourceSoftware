@@ -15,6 +15,7 @@ The only requirement is that they must be open source and run on Linux, not just
 
 ### Productivity and Creativity Tools
 - **Office Suite:** [LibreOffice](https://www.libreoffice.org/) - A powerful open-source office suite for word processing, spreadsheets, presentations, and more.
+- **PDF Editor:** [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) - An open-source tool for creating and editing PDF files.
 - **Image Editor:** [Krita](https://krita.org/) - Professional digital painting and illustration software.
 - **3D Editor:** [Blender](https://www.blender.org/) - A comprehensive open-source 3D creation suite.
 - **Vector Graphics Editor:** [Inkscape](https://inkscape.org/) - Hyprland provides the latest Wayland features, dynamic tiling all the eyecandy, powerful plugins and much more.
@@ -48,6 +49,7 @@ The only requirement is that they must be open source and run on Linux, not just
 - **Partition Manager:** [GParted](https://gparted.org/) - A free partition editor for graphically managing disk partitions.
 - **Image Organizer:** [Pix](https://github.com/linuxmint/pix) - An image organizer designed to look and feel like the native Photos app on macOS.
 - **Media Center:** [Kodi](https://kodi.tv/) - A free and open-source media player software and entertainment hub.
+- **Document Viewer:** [Okular](https://okular.kde.org/) - A document viewer for PDF, PostScript, DjVu, and other formats.
   
 ### Games
 - **Program Emulator:** [Bottles](https://usebottles.com/) - An open-source program emulator for Linux, allowing the running of Windows applications and games in an isolated environment.
