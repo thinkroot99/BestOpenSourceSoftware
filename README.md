@@ -16,6 +16,7 @@ The only requirement is that they must be open source and run on Linux, not just
 ### Productivity and Creativity Tools
 - **Office Suite:** [LibreOffice](https://www.libreoffice.org/) - A powerful open-source office suite for word processing, spreadsheets, presentations, and more.
 - **PDF Editor:** [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) - An open-source tool for creating and editing PDF files.
+- **Text Editor:** [Kate](https://kate-editor.org/) - A powerful and feature-rich text editor for Linux.
 - **Image Editor:** [Krita](https://krita.org/) - Professional digital painting and illustration software.
 - **3D Editor:** [Blender](https://www.blender.org/) - A comprehensive open-source 3D creation suite.
 - **Vector Graphics Editor:** [Inkscape](https://inkscape.org/) - Hyprland provides the latest Wayland features, dynamic tiling all the eyecandy, powerful plugins and much more.
