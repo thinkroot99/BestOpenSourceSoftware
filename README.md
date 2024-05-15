@@ -47,3 +47,6 @@ The only requirement is that they must be open source and run on Linux, not just
 - **Partition Manager:** [GParted](https://gparted.org/) - A free partition editor for graphically managing disk partitions.
 - **Image Organizer:** [Pix](https://github.com/linuxmint/pix) - An image organizer designed to look and feel like the native Photos app on macOS.
 - **Media Center:** [Kodi](https://kodi.tv/) - A free and open-source media player software and entertainment hub.
+  
+### Games
+- **Program Emulator:** [Bottles](https://usebottles.com/) - An open-source program emulator for Linux, allowing the running of Windows applications and games in an isolated environment.
