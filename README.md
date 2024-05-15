@@ -11,12 +11,13 @@ The only requirement is that they must be open source and run on Linux, not just
 ### Operating System and Environment
 - **Operating System:** [Fedora](https://fedoraproject.org/) - A community-driven Linux distribution with a focus on innovation.
 - **Desktop Environment:** [KDE Plasma](https://kde.org/plasma-desktop) - A modern and feature-rich desktop environment.
+- **Window Manager:** [Hyprland](https://hyprland.org/) - A lightweight and customizable window manager for Linux.
 
 ### Productivity and Creativity Tools
 - **Office Suite:** [LibreOffice](https://www.libreoffice.org/) - A powerful open-source office suite for word processing, spreadsheets, presentations, and more.
 - **Image Editor:** [Krita](https://krita.org/) - Professional digital painting and illustration software.
 - **3D Editor:** [Blender](https://www.blender.org/) - A comprehensive open-source 3D creation suite.
-- **Vector Graphics Editor:** [Inkscape](https://inkscape.org/) - An open-source vector graphics editor.
+- **Vector Graphics Editor:** [Inkscape](https://inkscape.org/) - Hyprland provides the latest Wayland features, dynamic tiling all the eyecandy, powerful plugins and much more.
 
 ### Multimedia and Content Creation
 - **Video Editor:** [Kdenlive](https://kdenlive.org/) - An intuitive and powerful open-source video editor.
