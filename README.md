@@ -17,6 +17,7 @@ The only requirement is that they must be open source and run on Linux, not just
 - **Office Suite:** [LibreOffice](https://www.libreoffice.org/) - A powerful open-source office suite for word processing, spreadsheets, presentations, and more.
 - **PDF Editor:** [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) - An open-source tool for creating and editing PDF files.
 - **Text Editor:** [Kate](https://kate-editor.org/) - A powerful and feature-rich text editor for Linux.
+- **Note-Taking App:** [Notesnook](https://notesnook.com/) - An open-source note-taking app with a focus on privacy and simplicity.
 - **Image Editor:** [Krita](https://krita.org/) - Professional digital painting and illustration software.
 - **3D Editor:** [Blender](https://www.blender.org/) - A comprehensive open-source 3D creation suite.
 - **Vector Graphics Editor:** [Inkscape](https://inkscape.org/) - Hyprland provides the latest Wayland features, dynamic tiling all the eyecandy, powerful plugins and much more.
@@ -34,6 +35,7 @@ The only requirement is that they must be open source and run on Linux, not just
 - **Password Manager:** [Bitwarden](https://bitwarden.com/) - An open-source password management solution.
 - **Antivirus:** [ClamAV](https://www.clamav.net/) - An antivirus open-source for detecting malware threats.
 - **Firewall:** [FirewalD](https://firewalld.org/) - A dynamic firewall management tool for Linux.
+- **Communication Platform:** [Element (formerly Riot)](https://element.io/) - A decentralized, open-source messaging platform built on Matrix.
 
 ### Development and Utilities
 - **Archiver:** [7-Zip](https://www.7-zip.org/) - A file archiver with a high compression ratio.
@@ -62,8 +64,6 @@ The only requirement is that they must be open source and run on Linux, not just
 - **Automated Testing:** [Selenium](https://www.selenium.dev/) - An open-source tool for automating web application testing.
 - **Monitoring:** [Prometheus](https://prometheus.io/) - An open-source monitoring system and time series database.
 - **Configuration Management:** [Ansible](https://www.ansible.com/) - An open-source automation engine for configuration management, deployment, and task automation.
-- **Communication Platform:** [Element (formerly Riot)](https://element.io/) - A decentralized, open-source messaging platform built on Matrix.
-- **Note-Taking App:** [Notesnook](https://notesnook.com/) - An open-source note-taking app with a focus on privacy and simplicity.
 - **Git Client:** [GitAhead](https://gitahead.github.io/gitahead.com/) - An open-source Git client with a clear interface and powerful features.
   
 ### Games
