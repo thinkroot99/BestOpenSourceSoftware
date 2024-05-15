@@ -2,7 +2,7 @@
 A short list of the best open source software
 
 
-- Operating System: [Linux](https://www.linux.org/)
+- Operating System: [Fedora ]([https://www.linux.org/](https://fedoraproject.org/))
 - Desktop Environment: [KDE Plasma](https://kde.org/plasma-desktop)
 - Office Suite: [LibreOffice](https://www.libreoffice.org/)
 - Image Editor: [Krita](https://krita.org/)
