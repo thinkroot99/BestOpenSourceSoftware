@@ -4,7 +4,10 @@ A list of open source software for each category.
 
 I think the programs below are the best in their category. Of course this list can be modified to contain the best programs in their category.
 
+If there is no category in the list, it can be added if a program is recommended.
+
 The only requirement is that they must be open source and run on Linux, not just Windows or macOS.
+
 ### Operating System and Environment
 - **Operating System:** [Fedora](https://fedoraproject.org/) - A community-driven Linux distribution with a focus on innovation.
 - **Desktop Environment:** [KDE Plasma](https://kde.org/plasma-desktop) - A modern and feature-rich desktop environment.
