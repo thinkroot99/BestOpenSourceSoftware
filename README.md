@@ -62,6 +62,9 @@ The only requirement is that they must be open source and run on Linux, not just
 - **Automated Testing:** [Selenium](https://www.selenium.dev/) - An open-source tool for automating web application testing.
 - **Monitoring:** [Prometheus](https://prometheus.io/) - An open-source monitoring system and time series database.
 - **Configuration Management:** [Ansible](https://www.ansible.com/) - An open-source automation engine for configuration management, deployment, and task automation.
+- **Communication Platform:** [Element (formerly Riot)](https://element.io/) - A decentralized, open-source messaging platform built on Matrix.
+- **Note-Taking App:** [Notesnook](https://notesnook.com/) - An open-source note-taking app with a focus on privacy and simplicity.
+- **Git Client:** [GitAhead](https://gitahead.github.io/gitahead.com/) - An open-source Git client with a clear interface and powerful features.
   
 ### Games
 - **Program Emulator:** [Bottles](https://usebottles.com/) - An open-source program emulator for Linux, allowing the running of Windows applications and games in an isolated environment.
